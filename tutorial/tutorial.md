@@ -146,6 +146,9 @@ Esto permitirá activar un servidor local que viene incluido en Django.
 
 ![Django 4.0](/tutorial/media/Screenshot%202022-03-30%20084356.png "Django 3.1")
 
+Servidor Corriendo en localhost a traves del puerto 8000
+![Django 4.0](/tutorial/media/Screenshot%202022-03-30%20091523.png "Django 3.1")
+
 Para detener el servidor teclee:
 
     Ctrl + c
