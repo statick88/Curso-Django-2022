@@ -1,4 +1,15 @@
-#Comandos básicos para trabajar con Django
+# Comandos básicos para trabajar con Django
+
+A continuación usted tiene un pequeño tutorial para proceder con la instalación de:
+* Un entorno virtual
+* Django.
+* Comandos básicos para la creación de un proyecto en Django.
+* Comandos básicos para la creación de una aplicación en Django.
+* Comandos básicos para preparar las migraciones en Django.
+* Comandos básicos para generar las tablas en la base de datos de Django mediante ORM.
+* Comandos básicos para crear un Super Usuario en Django.
+* Comandos básicos para crear el archivo requirements.txt
+* Comandos básicos para correr el servidor local en Django.
 
 ## Comando para conocer la versión de Python instalada.
 
@@ -133,8 +144,6 @@ Mediante este comando aparecerá una salida con todas las posibles combinaciones
         startproject
         test
         testserver
-
-![Django 4.0](/tutorial/media/Screenshot%202022-03-30%20084221.png "Django 3.1")
 
 # Finalmente
 
